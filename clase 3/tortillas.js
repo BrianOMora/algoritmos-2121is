@@ -9,7 +9,7 @@ if(tortilleria == "abierto"){
     console.log("Paso 3.- Buscar otra toritilleria");
 }
 if(tortilleria2 == "abierto"){
-    console.log("paso 3.- Llegar a la tortilleria");
+    console.log("paso 4.- Llegar a la tortilleria");
 }
-console.log("Paso 4.- Comprar las tortillas");
-console.log("Paso 5.- Caminar de regreso a casa");
+console.log("Paso 5.- Comprar las tortillas");
+console.log("Paso 6.- Caminar de regreso a casa");
