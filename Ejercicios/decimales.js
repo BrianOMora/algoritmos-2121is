@@ -1,5 +1,4 @@
 var decimales = 0;
-var resultado;
 
 for(var i = 0; i <= 9; i++){
     
@@ -9,4 +8,3 @@ for(var i = 0; i <= 9; i++){
 
     console.log(decimales);
 }
-
