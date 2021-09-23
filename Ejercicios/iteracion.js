@@ -1,4 +1,4 @@
-numero=parseInt(prompt("Ingresa el numero que desa saber sus correlativos")); 
+numero=parseInt(prompt("Ingresa el numero que desa saber su iteracion")); 
 var iteracion = numero;
 var resultado;
 var a = 0;
