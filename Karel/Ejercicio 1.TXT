@@ -1,0 +1,11 @@
+class program {
+    program(){
+
+       If(){
+       move();
+       pickbeeper();
+       turnleft();
+       turnoff();
+       }
+    }
+}
