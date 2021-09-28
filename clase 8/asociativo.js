@@ -14,7 +14,7 @@ var animales = ["perro","gatox2","perrox2","gato","pajaro","elefante",nombres];
 var humano = {
     "nombre" : "Brian",
     "apellido" : "Mora",
-    "edad" : 26, 
+    "edad" : 21, 
     "Casado" : false,
     "saludo" :"hola",
     "musica" : {
