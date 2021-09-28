@@ -4,13 +4,13 @@ var animales = ["perro","gatox2","perrox2","gato","pajaro","elefante",nombres];
 
  var perro = ["perro","ok",5.5,true,false,1,"jaja","jeje",8,.5,false,true,"ju",animales];
 
-// console.log(perro);
+/* console.log(perro);
 
-for (var x = 0; x < perro.length; x++) {
-    console.log(perro[x]);
+/for (var x = 0; x < perro.length; x++) {
+/    console.log(perro[x]);
 }
+*/
 
-// -- Asociativo
 var humano = {
     "nombre" : "Brian",
     "apellido" : "Mora",
@@ -29,4 +29,4 @@ var humano = {
     },
     "cosas" : perro,
 }
-console.log(humano["cosas"][6]);
+console.log(humano);
